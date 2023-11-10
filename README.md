@@ -18,11 +18,7 @@ background-color:red;
 border-radius:50%;
 margin:5px 5px 15px 5px;
 padding:5px ;
-@keyframes Animation 
-{
-{from background-color : red;}
-{to background-color : lightred;}
-}
+
 }
 .b{
 height:100px;
